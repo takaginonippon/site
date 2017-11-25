@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>高木のニッポン</title>
+    <link xmlns="http://www.w3.org/2005/Atom" href="https://takaginonippon.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://takaginonippon.github.io/site/</link>
+    <description><![CDATA[YouTubeで毎週月曜23時より配信中
+https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></description>
+    <itunes:summary><![CDATA[YouTubeで毎週月曜23時より配信中
+https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
+    <language>ja</language>
+    <copyright>© 2017 高木のニッポン</copyright>
+    <image>
+      <url>https://takaginonippon.github.io/site/logo.png</url>
+      <title>高木のニッポン</title>
+      <link>https://takaginonippon.github.io/site/</link>
+      <width>1000</width>
+      <height>1000</height>
+    </image>
+    <itunes:category text="News &amp; Politics"/>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Hobbies"/>
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="Comedy"/>
+    <itunes:author>高木のニッポン</itunes:author>
+    <itunes:owner>
+      <itunes:email>takaginonippon@gmail.com</itunes:email>
+      <itunes:name>高木のニッポン</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://takaginonippon.github.io/site/logo.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <item>
+      <title>高木のニッポン第175回</title>
+      <enclosure url="https://dl.dropboxusercontent.com/s/ktbinlyltsf5okz/nippon_01_177.m4a?dl=0" length="109770377" type="audio/aac"/>
+      <itunes:duration>1:53:27</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>177</itunes:episode>
+      <itunes:title>高木のニッポン第175回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
