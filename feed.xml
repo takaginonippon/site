@@ -32,6 +32,16 @@ https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
     <item>
+      <title>高木のニッポン第187回　大雪</title>
+      <pubDate>Mon, 12 Feb 2018 15:20:34 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/778tcn0wnyeimln/nippon_01_189.m4a?dl=0" length="72578164" type="audio/aac"/>
+      <itunes:duration>1:15:03</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>189</itunes:episode>
+      <itunes:title>高木のニッポン第187回　大雪</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>高木のニッポン第186回</title>
       <pubDate>Mon, 05 Feb 2018 15:16:07 +0000</pubDate>
       <enclosure url="https://dl.dropboxusercontent.com/s/6oyi3dp6f71pwc3/nippon_01_188.m4a?dl=0" length="68686746" type="audio/aac"/>
@@ -219,16 +229,6 @@ https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
       <itunes:season>1</itunes:season>
       <itunes:episode>170</itunes:episode>
       <itunes:title>高木のニッポン第168回</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>高木のニッポン第167回</title>
-      <pubDate>Mon, 25 Sep 2017 15:33:30 +0000</pubDate>
-      <enclosure url="https://dl.dropboxusercontent.com/s/nfvhs4z1atb7dat/nippon_01_169.m4a?dl=0" length="84274450" type="audio/aac"/>
-      <itunes:duration>1:27:04</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>169</itunes:episode>
-      <itunes:title>高木のニッポン第167回</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <itunes:type>episodic</itunes:type>
