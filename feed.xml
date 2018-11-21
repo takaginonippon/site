@@ -32,6 +32,16 @@ https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
     <item>
+      <title>高木のニッポン第227回</title>
+      <pubDate>Mon, 19 Nov 2018 15:11:19 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/327f1gv3yyl1kxp/nippon_01_228.m4a?dl=0" length="46953130" type="audio/aac"/>
+      <itunes:duration>0:47:04</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>228</itunes:episode>
+      <itunes:title>高木のニッポン第227回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>高木のニッポン第226回</title>
       <pubDate>Mon, 12 Nov 2018 16:30:01 +0000</pubDate>
       <enclosure url="https://dl.dropboxusercontent.com/s/m7647vukpxrhohw/nippon_01_227.m4a?dl=0" length="127096073" type="audio/aac"/>
@@ -209,16 +219,6 @@ https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
       <itunes:season>1</itunes:season>
       <itunes:episode>210</itunes:episode>
       <itunes:title>高木のニッポン 第208回</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>高木のニッポン第207回</title>
-      <pubDate>Mon, 02 Jul 2018 15:58:55 +0000</pubDate>
-      <enclosure url="https://dl.dropboxusercontent.com/s/zp0cq27i5eiuj77/nippon_01_209.m4a?dl=0" length="89724275" type="audio/aac"/>
-      <itunes:duration>1:30:12</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>209</itunes:episode>
-      <itunes:title>高木のニッポン第207回</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <itunes:type>episodic</itunes:type>
