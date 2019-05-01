@@ -4,10 +4,12 @@
     <title>高木のニッポン</title>
     <link xmlns="http://www.w3.org/2005/Atom" href="https://takaginonippon.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://takaginonippon.github.io/site/</link>
-    <description></description>
-    <itunes:summary></itunes:summary>
+    <description><![CDATA[YouTubeで毎週月曜23時より配信中
+https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></description>
+    <itunes:summary><![CDATA[YouTubeで毎週月曜22時より配信中
+https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
     <language>ja</language>
-    <copyright>© 2017 高木のニッポン</copyright>
+    <copyright>© 2017-2019 高木のニッポン</copyright>
     <image>
       <url>https://takaginonippon.github.io/site/logo.png</url>
       <title>高木のニッポン</title>
@@ -29,6 +31,46 @@
     <itunes:image href="https://takaginonippon.github.io/site/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
+    <item>
+      <title>帰ってきた！高木のニッポン第4回</title>
+      <pubDate>Mon, 29 Apr 2019 14:23:32 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/h1m7laoz38ujfxb/nippon_03_004.m4a?dl=0" length="74470276" type="audio/aac"/>
+      <itunes:duration>1:15:26</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:title>帰ってきた！高木のニッポン第4回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>帰ってきた！高木のニッポン第3回</title>
+      <pubDate>Mon, 22 Apr 2019 14:17:52 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/apcxl63t09rxhs5/nippon_03_003.m4a?dl=0" length="76823804" type="audio/aac"/>
+      <itunes:duration>1:17:38</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:title>帰ってきた！高木のニッポン第3回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>帰ってきた！高木のニッポン第2回</title>
+      <pubDate>Mon, 15 Apr 2019 14:56:48 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/3bha7na2ugvhic7/nippon_03_002.m4a?dl=0" length="97754187" type="audio/aac"/>
+      <itunes:duration>1:38:11</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>帰ってきた！高木のニッポン第2回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>帰ってきた！高木のニッポン第1回</title>
+      <pubDate>Mon, 08 Apr 2019 14:13:19 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/2buf5ud9c8um8tk/nippon_03_001.m4a?dl=0" length="49736719" type="audio/aac"/>
+      <itunes:duration>0:50:39</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:title>帰ってきた！高木のニッポン第1回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <itunes:type>episodic</itunes:type>
   </channel>
 </rss>
