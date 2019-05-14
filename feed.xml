@@ -4,7 +4,7 @@
     <title>高木のニッポン</title>
     <link xmlns="http://www.w3.org/2005/Atom" href="https://takaginonippon.github.io/site/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://takaginonippon.github.io/site/</link>
-    <description><![CDATA[YouTubeで毎週月曜23時より配信中
+    <description><![CDATA[YouTubeで毎週月曜22時より配信中
 https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></description>
     <itunes:summary><![CDATA[YouTubeで毎週月曜22時より配信中
 https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
@@ -31,6 +31,16 @@ https://www.youtube.com/channel/UCj5gzxnHwtwMPlk6RFFXJ3g]]></itunes:summary>
     <itunes:image href="https://takaginonippon.github.io/site/logo.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
+    <item>
+      <title>帰ってきた！高木のニッポン第5回</title>
+      <pubDate>Mon, 13 May 2019 14:52:57 +0000</pubDate>
+      <enclosure url="https://dl.dropboxusercontent.com/s/tvr5o11wbjlg4la/nippon_03_005.m4a?dl=0" length="96490559" type="audio/aac"/>
+      <itunes:duration>1:37:48</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:title>帰ってきた！高木のニッポン第5回</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>帰ってきた！高木のニッポン第4回</title>
       <pubDate>Mon, 29 Apr 2019 14:23:32 +0000</pubDate>
